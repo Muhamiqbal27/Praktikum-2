@@ -1,4 +1,4 @@
-<?php
+<?php 
 
 class mahasiswa {
     //Properti 
@@ -32,6 +32,6 @@ class mahasiswa {
 // Instance Object
 $mahasiswa1 = new Mahasiswa(110223285, 'Muhammad Iqbal');
 $mahasiswa1->ipk = 3.75;
-$mahasiswa1->prodi = 'Teknik INformatika';
+$mahasiswa1->prodi = 'Teknik Informatika';
 $mahasiswa1->angkatan = 2023;
 ?>
